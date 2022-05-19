@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ryanh/AndroidStudioProjects/MonitoringMelon/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/ryanh/AndroidStudioProjects/MonitoringMelon/app/src/main/res/drawable/color_states.xml" value="0.1" />
+        <entry key="..\:/Users/ryanh/AndroidStudioProjects/MonitoringMelon/app/src/main/res/drawable/gradient1.xml" value="0.1" />
+        <entry key="..\:/Users/ryanh/AndroidStudioProjects/MonitoringMelon/app/src/main/res/drawable/gradient2.xml" value="0.1" />
+        <entry key="..\:/Users/ryanh/AndroidStudioProjects/MonitoringMelon/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.16" />
+        <entry key="..\:/Users/ryanh/AndroidStudioProjects/MonitoringMelon/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/ryanh/AndroidStudioProjects/MonitoringMelon/app/src/main/res/font/bungee.xml" value="0.109375" />
+        <entry key="..\:/Users/ryanh/AndroidStudioProjects/MonitoringMelon/app/src/main/res/layout/activity_dashboard.xml" value="0.17" />
+        <entry key="..\:/Users/ryanh/AndroidStudioProjects/MonitoringMelon/app/src/main/res/layout/activity_main.xml" value="0.21" />
+        <entry key="..\:/Users/ryanh/AndroidStudioProjects/MonitoringMelon/app/src/main/res/layout/activity_panduan.xml" value="0.25" />
+        <entry key="..\:/Users/ryanh/AndroidStudioProjects/MonitoringMelon/app/src/main/res/layout/activity_pembibitan.xml" value="0.14114583333333333" />
+        <entry key="..\:/Users/ryanh/AndroidStudioProjects/MonitoringMelon/app/src/main/res/layout/activity_pertumbuhan.xml" value="0.14114583333333333" />
+        <entry key="..\:/Users/ryanh/AndroidStudioProjects/MonitoringMelon/app/src/main/res/layout/activity_splashscreen.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ryanh/AndroidStudioProjects/MonitoringMelon/app/src/main/res/layout/fragment_grafik.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ryanh/AndroidStudioProjects/MonitoringMelon/app/src/main/res/layout/fragment_grafik_pembibitan.xml" value="0.14114583333333333" />
+        <entry key="..\:/Users/ryanh/AndroidStudioProjects/MonitoringMelon/app/src/main/res/layout/fragment_grafik_pertumbuhan.xml" value="0.14114583333333333" />
+        <entry key="..\:/Users/ryanh/AndroidStudioProjects/MonitoringMelon/app/src/main/res/layout/fragment_histori.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/ryanh/AndroidStudioProjects/MonitoringMelon/app/src/main/res/layout/fragment_histori_pembibitan.xml" value="0.14114583333333333" />
+        <entry key="..\:/Users/ryanh/AndroidStudioProjects/MonitoringMelon/app/src/main/res/layout/fragment_histori_pertumbuhan.xml" value="0.14114583333333333" />
+        <entry key="..\:/Users/ryanh/AndroidStudioProjects/MonitoringMelon/app/src/main/res/layout/fragment_home.xml" value="0.11322463768115942" />
+        <entry key="..\:/Users/ryanh/AndroidStudioProjects/MonitoringMelon/app/src/main/res/layout/fragment_home_pembibitan.xml" value="0.14114583333333333" />
+        <entry key="..\:/Users/ryanh/AndroidStudioProjects/MonitoringMelon/app/src/main/res/layout/fragment_home_pertumbuhan.xml" value="0.14114583333333333" />
+        <entry key="..\:/Users/ryanh/AndroidStudioProjects/MonitoringMelon/app/src/main/res/menu/bottom_navigation.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ryanh/AndroidStudioProjects/MonitoringMelon/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/Users/ryanh/AndroidStudioProjects/MonitoringMelon/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

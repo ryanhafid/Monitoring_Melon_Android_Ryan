@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Monitoring Melon</string>
+    <string name="pembibitan">PEMBIBITAN</string>
+    <string name="pertumbuhan">PERTUMBUHAN</string>
+    <string name="panduan">PANDUAN</string>
+    <string name="judul_splash2">Telecommunication Engineering \n State Polytechnic of Semarang \n 2022</string>
+    <string name="judul_splash">SMART \n GREEN HOUSE</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="infoapp">Aplikasi SGHM (Smart Green House Melon) merupakan suatu aplikasi yang dibuat oleh mahasiswa program studi Teknik Telekomunikasi jurusan Teknik Elektro Politeknik Negeri Semarang yang bisa memudahkan petani melon dalam memonitoring proses penyemaian dan proses pertumbuhan tanaman melon. \n
+<br>Aplikasi SGHM ini terintegrasi dengan teknologi Internet Of Thinks (IoT) sehingga bisa digunakan dimana saja selama perangkat terhubung ke internet.</br> </string>
+    <string name="infoweb">https://ryanfhmnf.telkom4b.com/laundry</string>
+    <string name="infokontak">Email : ryanhafid.tiga@gmail.com</string>
+
+
+</resources>
