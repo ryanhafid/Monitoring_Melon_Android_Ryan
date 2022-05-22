@@ -14,5 +14,4 @@
         android:textSize="20sp"
         android:textStyle="bold"
         android:text="Home Pertumbuhan Fragmen" />
-
-</androidx.swiperefreshlayout.widget.SwipeRefreshLayout>
+</RelativeLayout>

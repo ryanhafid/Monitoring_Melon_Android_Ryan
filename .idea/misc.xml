@@ -16,6 +16,7 @@
         <entry key="..\:/Users/ryanh/AndroidStudioProjects/MonitoringMelon/app/src/main/res/layout/activity_pembibitan.xml" value="0.14114583333333333" />
         <entry key="..\:/Users/ryanh/AndroidStudioProjects/MonitoringMelon/app/src/main/res/layout/activity_pertumbuhan.xml" value="0.14114583333333333" />
         <entry key="..\:/Users/ryanh/AndroidStudioProjects/MonitoringMelon/app/src/main/res/layout/activity_splashscreen.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ryanh/AndroidStudioProjects/MonitoringMelon/app/src/main/res/layout/card_home_pembibitan.xml" value="0.1" />
         <entry key="..\:/Users/ryanh/AndroidStudioProjects/MonitoringMelon/app/src/main/res/layout/fragment_grafik.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/ryanh/AndroidStudioProjects/MonitoringMelon/app/src/main/res/layout/fragment_grafik_pembibitan.xml" value="0.14114583333333333" />
         <entry key="..\:/Users/ryanh/AndroidStudioProjects/MonitoringMelon/app/src/main/res/layout/fragment_grafik_pertumbuhan.xml" value="0.14114583333333333" />
@@ -23,7 +24,7 @@
         <entry key="..\:/Users/ryanh/AndroidStudioProjects/MonitoringMelon/app/src/main/res/layout/fragment_histori_pembibitan.xml" value="0.14114583333333333" />
         <entry key="..\:/Users/ryanh/AndroidStudioProjects/MonitoringMelon/app/src/main/res/layout/fragment_histori_pertumbuhan.xml" value="0.14114583333333333" />
         <entry key="..\:/Users/ryanh/AndroidStudioProjects/MonitoringMelon/app/src/main/res/layout/fragment_home.xml" value="0.11322463768115942" />
-        <entry key="..\:/Users/ryanh/AndroidStudioProjects/MonitoringMelon/app/src/main/res/layout/fragment_home_pembibitan.xml" value="0.14114583333333333" />
+        <entry key="..\:/Users/ryanh/AndroidStudioProjects/MonitoringMelon/app/src/main/res/layout/fragment_home_pembibitan.xml" value="0.2" />
         <entry key="..\:/Users/ryanh/AndroidStudioProjects/MonitoringMelon/app/src/main/res/layout/fragment_home_pertumbuhan.xml" value="0.14114583333333333" />
         <entry key="..\:/Users/ryanh/AndroidStudioProjects/MonitoringMelon/app/src/main/res/menu/bottom_navigation.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/ryanh/AndroidStudioProjects/MonitoringMelon/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
