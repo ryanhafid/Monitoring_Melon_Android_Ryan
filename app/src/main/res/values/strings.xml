@@ -1,16 +1,30 @@
 <resources>
-    <string name="app_name">Monitoring Melon</string>
+    <string name="app_name">SmartGreenHouse Apps</string>
     <string name="pembibitan">PEMBIBITAN</string>
     <string name="pertumbuhan">PERTUMBUHAN</string>
     <string name="panduan">PANDUAN</string>
     <string name="judul_splash2">Telecommunication Engineering \n State Polytechnic of Semarang \n 2022</string>
-    <string name="judul_splash">SMART \n GREEN HOUSE</string>
+    <string name="judul_splash"><i>WELCOME TO\nSMART GREENHOUSE</i></string>
     <string name="hello_blank_fragment">Hello blank fragment</string>
 
     <string name="infoapp">Aplikasi SGHM (Smart Green House Melon) merupakan suatu aplikasi yang dibuat oleh mahasiswa program studi Teknik Telekomunikasi jurusan Teknik Elektro Politeknik Negeri Semarang yang bisa memudahkan petani melon dalam memonitoring proses penyemaian dan proses pertumbuhan tanaman melon. \n
 <br>Aplikasi SGHM ini terintegrasi dengan teknologi Internet Of Thinks (IoT) sehingga bisa digunakan dimana saja selama perangkat terhubung ke internet.</br> </string>
     <string name="infoweb">https://ryanfhmnf.telkom4b.com/laundry</string>
     <string name="infokontak">Email : ryanhafid.tiga@gmail.com</string>
-
+    <string name="title_activity_home_pembibitan">HomePembibitan</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="namaalat"><i>SMART GREENHOUSE</i></string>
+    <string name="jdl_grafik">GRAFIK DATA SENSOR</string>
+    <string name="suhu_udara">SUHU UDARA</string>
+    <string name="suhu_tanah">SUHU TANAH</string>
+    <string name="hum_udr">KELEMBAPAN UDARA</string>
+    <string name="hum_tnh">KELEMBAPAN TANAH</string>
+    <string name="cahaya">CAHAYA</string>
+    <string name="jdl_histori">HISTORI DATA</string>
+    <string name="tanggal_awal">Tanggal\nAwal</string>
+    <string name="tanggal_akhir">Tanggal Akhir</string>
+    <string name="hasil_filter">Hasil Filter Data:</string>
 
 </resources>

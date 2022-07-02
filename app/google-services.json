@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "859151016752",
+    "project_id": "notification-melon",
+    "storage_bucket": "notification-melon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859151016752:android:7ea9f349b582c685675ef5",
+        "android_client_info": {
+          "package_name": "com.iotwae.monitoringmelon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "859151016752-msq6k6d57krougi1navhmctm736hn169.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.iotwae.monitoringmelon",
+            "certificate_hash": "ea187eedc9415231d0761ad9314f76a58321b7e4"
+          }
+        },
+        {
+          "client_id": "859151016752-p2h5tno8com83qbd3iuh1mfn8ikm5pcu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4Vyt5I7FTFbVgyV17sBhg5AWCDUCrz_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "859151016752-p2h5tno8com83qbd3iuh1mfn8ikm5pcu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

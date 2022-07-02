@@ -5,10 +5,14 @@ import androidx.cardview.widget.CardView;
 
 import android.content.Intent;
 import android.os.Bundle;
+import android.support.annotation.NonNull;
+import android.util.Log;
 import android.view.View;
+import android.widget.Button;
+import android.widget.Toast;
 
-import com.iotwae.monitoringmelon.pembibitan.PembibitanActivity;
-import com.iotwae.monitoringmelon.pertumbuhan.PertumbuhanActivity;
+import com.iotwae.monitoringmelon.pembibitan.HomePembibitan;
+import com.iotwae.monitoringmelon.pertumbuhan.HomePertumbuhan;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
     private CardView pembibitanCard, pertumbuhanCard, panduanCard;
@@ -26,6 +30,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         pembibitanCard.setOnClickListener(this);
         pertumbuhanCard.setOnClickListener(this);
         panduanCard.setOnClickListener(this);
+
     }
 
     @Override
@@ -34,11 +39,11 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
         switch (view.getId()) {
             case R.id.pembibitan:
-                intent = new Intent(this, PembibitanActivity.class);
+                intent = new Intent(this, HomePembibitan.class);
                 startActivity(intent);
                 break;
             case R.id.pertumbuhan:
-                intent = new Intent(this, PertumbuhanActivity.class);
+                intent = new Intent(this, HomePertumbuhan.class);
                 startActivity(intent);
                 break;
             case R.id.panduan:

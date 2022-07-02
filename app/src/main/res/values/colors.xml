@@ -12,4 +12,9 @@
     <color name="green_a">#00a000</color>
     <color name="green_1">#D8E9A8</color>
     <color name="green_2">#4E9F3D</color>
+    <color name="colors1">#D51709</color>
+    <color name="colors2">#132FCC</color>
+    <color name="colors3">#25CF01</color>
+    <color name="colors4">#FF551F</color>
+    <color name="colorAccent">#FFA000</color>
 </resources>

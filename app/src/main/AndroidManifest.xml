@@ -2,25 +2,103 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.iotwae.monitoringmelon">
 
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.ACCESS_NOTIFICATION_POLICY" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.MonitoringMelon">
+        android:theme="@style/Theme.MonitoringMelon"
+        android:usesCleartextTraffic="true">
+
+
+        <!-- GRAFIK PERTUMBUHAN -->
+        <activity
+            android:name=".pertumbuhan.GrafikPHPertumbuhan"
+            android:exported="false"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".pertumbuhan.GrafikSuhuUdrPertumbuhan"
+            android:exported="false"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".pertumbuhan.GrafikSuhuTnhPertumbuhan"
+            android:exported="false"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".pertumbuhan.GrafikKelembapanUdrPertumbuhan"
+            android:exported="false"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".pertumbuhan.GrafikKelembapanTnhPertumbuhan"
+            android:exported="false"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".pertumbuhan.GrafikCahayaPertumbuhan"
+            android:exported="false"
+            android:screenOrientation="landscape" />
+
+        <!-- GRAFIK PEMBIBITAN -->
+        <activity
+            android:name=".pembibitan.GrafikCahayaPembibitan"
+            android:exported="false"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".pembibitan.GrafikKelembapanTnhPembibitan"
+            android:exported="false"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".pembibitan.GrafikSuhuTnhPembibitan"
+            android:exported="false"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".pembibitan.GrafikKelembapanUdrPembibitan"
+            android:exported="false"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".pembibitan.GrafikSuhuUdrPembibitan"
+            android:exported="false"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".pertumbuhan.GrafikPertumbuhan"
+            android:exported="false" />
+        <activity
+            android:name=".pertumbuhan.HistoriPertumbuhan"
+            android:exported="false" />
+        <activity
+            android:name=".pembibitan.HistoriPembibitan"
+            android:configChanges="orientation"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".pembibitan.GrafikPembibitan"
+            android:configChanges="orientation"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".pembibitan.HomePembibitan"
+            android:configChanges="orientation"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".pertumbuhan.HomePertumbuhan"
+            android:configChanges="orientation"
+            android:exported="false"
+            android:screenOrientation="portrait" />
         <activity
             android:name=".PanduanActivity"
             android:exported="false" />
         <activity
-            android:name=".pembibitan.PembibitanActivity"
-            android:exported="false" />
-        <activity
-            android:name=".pertumbuhan.PertumbuhanActivity"
-            android:exported="false" />
-        <activity
             android:name=".SplashScreen"
-            android:exported="true">
+            android:configChanges="orientation"
+            android:exported="true"
+            android:screenOrientation="portrait">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -29,7 +107,9 @@
         </activity>
         <activity
             android:name=".MainActivity"
-            android:exported="false" />
+            android:configChanges="orientation"
+            android:exported="false"
+            android:screenOrientation="portrait" />
     </application>
 
 </manifest>
